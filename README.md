@@ -1,0 +1,1 @@
+read the article: PINN_for_Trajectory_Optimization__Methodology_Based_on_Racing_Car_Path (1).pdf
